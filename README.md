@@ -1,0 +1,1 @@
+This is technical challange from DXsoftware
